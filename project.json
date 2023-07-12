@@ -1,6 +1,6 @@
 {
   "name": "TestLibrary_CICD",
-  "description": "Blank Library",
+  "description": "BlankLibrary",
   "main": "NewActivity.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "2.20.1",
